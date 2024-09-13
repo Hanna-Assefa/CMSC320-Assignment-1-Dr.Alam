@@ -2,3 +2,8 @@ Q1: Why might be consider using git?
 
 Answer: Git is a version control system that allows developers to track the progression of their projects and lets multiple people work on
 the same project at the same time.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to any finance field. It can be used to optimize services, detect fraud, and analyze consumer patterns etc.
+
